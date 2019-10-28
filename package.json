@@ -1,0 +1,20 @@
+{
+  "name": "fmohamm",
+  "version": "1.0.0",
+  "description": "first site",
+  "author": "Faaiez Mohammed",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "hub": "^6.1.2",
+    "node-sass": "^4.13.0",
+    "nuxt": "^2.0.0",
+    "sass-loader": "^8.0.0"
+  },
+  "devDependencies": {}
+}
